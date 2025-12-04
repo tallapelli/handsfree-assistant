@@ -1,0 +1,14 @@
+# Core GUI Framework
+customtkinter
+Pillow
+
+# Gesture Control Dependencies
+opencv-python
+mediapipe
+pyautogui
+numpy
+
+# Speech Recognition Dependencies
+# Note: This will also install PyTorch, which is a large library.
+openai-whisper
+sounddevice
